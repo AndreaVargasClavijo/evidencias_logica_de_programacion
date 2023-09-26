@@ -8,7 +8,8 @@
 
  ### SOLUCIÓN
 
-``` JAVA COPY
+```JAVA COPY
+
 package com.mycompany.hipotenusatriangulo1;
 
 import java.util.Scanner;
@@ -39,7 +40,7 @@ public class HipotenusaTriangulo1 {
 
 ### SOLUCIÓN 
 
-``` JAVA COPY
+```JAVA COPY
 package com.mycompany.java1;
 
 /**
@@ -69,7 +70,7 @@ public class Java1 {
 
 ### SOLUCIÓN
 
-``` JAVA COPY
+```JAVA COPY
 package com.mycompany.tercerangulotriangulo;
 
 import java.util.Scanner;
@@ -102,7 +103,7 @@ public class TercerAnguloTriangulo {
 
 ### SOLUCIÓN
 
-``` JAVA COPY 
+```JAVA COPY 
 package com.mycompany.promediotresnumeros;
 
 import java.util.Scanner;
@@ -136,7 +137,7 @@ public class PromedioTresNumeros {
 
 ### SOLUCIÓN
 
-``` JAVA COPY 
+```JAVA COPY 
 package com.mycompany.longitudcadena;
 
 /**
@@ -164,7 +165,7 @@ public class LongitudCadena {
 
 ### SOLUCIÓN
 
-``` JAVA COPY
+```JAVA COPY
 
 package com.mycompany.areatriangulo;
 
@@ -196,7 +197,7 @@ public class AreaTriangulo {
 
 ### SOLUCIÓN
 
-``` JAVA COPY
+```JAVA COPY
 package com.mycompany.raizcuadrada;
 /**
  *
@@ -224,7 +225,7 @@ public class RaizCuadrada {
 
 ### SOLUCIÓN
 
-``` JAVA COPY 
+```JAVA COPY 
 package com.mycompany.maximocomundivisor;
 
 import java.util.Scanner;
@@ -286,7 +287,7 @@ public class CadenaInversa {
 
 ### SOLUCIÓN
 
-``` JAVA COPY
+```JAVA COPY
 package com.mycompany.areatriangulo;
 
 /**
