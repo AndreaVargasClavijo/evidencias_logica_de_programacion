@@ -6,7 +6,6 @@
 
 1. Programa para calcular la hipotenusa de un triángulo rectángulo
 
- ### SOLUCIÓN
 
 ``` JAVA
 public class HipotenusaTriangulo1 {
