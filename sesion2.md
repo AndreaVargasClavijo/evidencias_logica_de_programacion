@@ -8,7 +8,7 @@
 
  ### SOLUCIÓN
 
-```JAVA COPY
+```JAVA
 public class HipotenusaTriangulo1 {
 
     public static void main(String[] args) {
@@ -31,7 +31,7 @@ public class HipotenusaTriangulo1 {
 
 ### SOLUCIÓN 
 
-```JAVA COPY
+```JAVA
 public class Java1 {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
@@ -52,7 +52,7 @@ public class Java1 {
 
 ### SOLUCIÓN
 
-```JAVA COPY
+```JAVA
 public class TercerAnguloTriangulo {
     
         public static void main(String[] args) {
@@ -77,7 +77,7 @@ public class TercerAnguloTriangulo {
 
 ### SOLUCIÓN
 
-```JAVA COPY 
+```JAVA 
 public class PromedioTresNumeros {
 
     public static void main(String[] args) {
@@ -102,7 +102,7 @@ public class PromedioTresNumeros {
 
 ### SOLUCIÓN
 
-```JAVA COPY 
+```JAVA 
 public class LongitudCadena {
 
     public static void main(String[] args) {
@@ -121,7 +121,7 @@ public class LongitudCadena {
 
 ### SOLUCIÓN
 
-```JAVA COPY
+```JAVA
 public class AreaTriangulo {
 
     public static void main(String[] args) {
@@ -143,7 +143,7 @@ public class AreaTriangulo {
 
 ### SOLUCIÓN
 
-```JAVA COPY
+```JAVA
 
 public class RaizCuadrada {
 
@@ -164,7 +164,7 @@ public class RaizCuadrada {
 
 ### SOLUCIÓN
 
-```JAVA COPY 
+```JAVA 
 
 public class MaximoComunDivisor {
 
@@ -186,7 +186,7 @@ public class MaximoComunDivisor {
 
 ### SOLUCIÓN
 
-```JAVA COPY
+```JAVA
 import java.util.Scanner;
 
 public class CadenaInversa {
@@ -213,7 +213,7 @@ public class CadenaInversa {
 
 ### SOLUCIÓN
 
-```JAVA COPY
+```JAVA
 
 public class AreaTriangulo {
 
