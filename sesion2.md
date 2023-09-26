@@ -289,8 +289,6 @@ public class CadenaInversa {
 
 ```JAVA COPY
 
-import java.util.Scanner;
-
 public class AreaTriangulo {
 
     public static void main(String[] args) {
@@ -305,9 +303,7 @@ public class AreaTriangulo {
             System.out.println("El área del triángulo es: " + area);
         }
     }
-    }
-
-```
+}```
 
 
 
