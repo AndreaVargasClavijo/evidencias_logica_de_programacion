@@ -8,7 +8,7 @@ Ejecicios Array - ArrayList
 
 
 
-1. En parejas, probar, analizar y explicar el funcionamiento de los siguientes ejemplos de Array y ArrayList.
+- En parejas, probar, analizar y explicar el funcionamiento de los siguientes ejemplos de Array y ArrayList.
 
 
 ### Ejemplo Array
@@ -101,7 +101,7 @@ public class AppNotas {
 
 ```
 
-2. Crear un ejemplo de Array y otro de ArrayList para visualizar sus diferencias.
+- Crear un ejemplo de Array y otro de ArrayList para visualizar sus diferencias.
 
 
 ## ARRAY 

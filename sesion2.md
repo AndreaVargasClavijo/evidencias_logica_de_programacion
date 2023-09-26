@@ -4,7 +4,7 @@
 
 # ACTIVIDAD 2
 
-1. Programa para calcular la hipotenusa de un triángulo rectángulo
+- Programa para calcular la hipotenusa de un triángulo rectángulo
 
 
 ``` JAVA
@@ -26,7 +26,7 @@ public class HipotenusaTriangulo1 {
     }
 ```
 
-2. Programa para determinar si un número es par o impar:
+- Programa para determinar si un número es par o impar:
 
 ### SOLUCIÓN 
 
@@ -47,7 +47,7 @@ public class Java1 {
     }
 ```
 
-3. Programa para calcular el tercer ángulo de un triángulo:
+- Programa para calcular el tercer ángulo de un triángulo:
 
 ### SOLUCIÓN
 
@@ -72,7 +72,7 @@ public class TercerAnguloTriangulo {
 }
 ```
 
-4. Programa para calcular el promedio de tres números:
+- Programa para calcular el promedio de tres números:
 
 ### SOLUCIÓN
 
@@ -97,7 +97,7 @@ public class PromedioTresNumeros {
 }
 ```
 
-5. Programa para calcular la longitud de una cadena de texto:
+- Programa para calcular la longitud de una cadena de texto:
 
 ### SOLUCIÓN
 
@@ -116,7 +116,7 @@ public class LongitudCadena {
     }
 ```
 
-6. Programa para calcular el área de un triángulo:
+- Programa para calcular el área de un triángulo:
 
 ### SOLUCIÓN
 
@@ -138,7 +138,7 @@ public class AreaTriangulo {
     } 
 ```
 
-7. Programa para calcular la raíz cuadrada de un número:
+- Programa para calcular la raíz cuadrada de un número:
 
 ### SOLUCIÓN
 
@@ -159,7 +159,7 @@ public class RaizCuadrada {
 
 ```
 
-8. Programa para calcular el máximo común divisor (MCD) de dos números:
+- Programa para calcular el máximo común divisor (MCD) de dos números:
 
 ### SOLUCIÓN
 
@@ -181,7 +181,7 @@ public class MaximoComunDivisor {
     }
 }
 ```
-9. Programa para imprimir una cadena de texto en orden inverso:
+- Programa para imprimir una cadena de texto en orden inverso:
 
 ### SOLUCIÓN
 
@@ -208,7 +208,7 @@ public class CadenaInversa {
 }
 ```
 
-10. Programa para calcular el área de un rectángulo:
+- Programa para calcular el área de un rectángulo:
 
 ### SOLUCIÓN
 

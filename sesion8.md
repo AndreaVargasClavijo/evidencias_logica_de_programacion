@@ -5,7 +5,7 @@
 
 Implementar los siguientes métodos:
 
-1. Escribe un método que reciba dos números como parámetros y devuelva el mayor de los dos.
+- Escribe un método que reciba dos números como parámetros y devuelva el mayor de los dos.
 
 ### SOLUCION 
 
@@ -33,7 +33,7 @@ public class Funciones1 {
    }
 ```
 
-2. Escribe un método que reciba una cadena de texto como parámetro y devuelva el número de vocales que contiene.
+- Escribe un método que reciba una cadena de texto como parámetro y devuelva el número de vocales que contiene.
 
 
 ### SOLUCION 
@@ -75,7 +75,7 @@ public class Funciones2 {
 
 ```
 
-3. Escribe un método que reciba una cadena de texto como parámetro y devuelva una nueva cadena con todas las letras mayúsculas en minúsculas y viceversa.
+- Escribe un método que reciba una cadena de texto como parámetro y devuelva una nueva cadena con todas las letras mayúsculas en minúsculas y viceversa.
 
 ### SOLUCION 
 
@@ -117,7 +117,7 @@ public class Funcion3 {
 }
 ```
 
-4. Escribe un método que reciba una cadena de texto como parámetro y devuelva el número de palabras que contiene.
+- Escribe un método que reciba una cadena de texto como parámetro y devuelva el número de palabras que contiene.
 
 ### SOLUCION 
 
@@ -144,7 +144,7 @@ public class Funciones4 {
 
 ```
 
-5. Escribe un método que reciba una cadena de texto como parámetro y devuelva una nueva cadena con todas las palabras en orden alfabético.
+- Escribe un método que reciba una cadena de texto como parámetro y devuelva una nueva cadena con todas las palabras en orden alfabético.
 
 ``` JAVA
 public class Funciones5 {
