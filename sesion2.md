@@ -288,12 +288,7 @@ public class CadenaInversa {
 ### SOLUCIÓN
 
 ```JAVA COPY
-package com.mycompany.areatriangulo;
 
-/**
- *
- * @author ANDREA
- */
 import java.util.Scanner;
 
 public class AreaTriangulo {
