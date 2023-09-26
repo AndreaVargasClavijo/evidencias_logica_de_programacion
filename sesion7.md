@@ -13,9 +13,7 @@ Ejecicios Array - ArrayList
 
 ### Ejemplo Array
 
-``` java copy
-import java.util.Arrays;
-
+``` java
 public class EjercicioArray {
 
     public static void main(String[] args) {
@@ -50,10 +48,7 @@ public class EjercicioArray {
 
 ### Ejemplo Array list
 
-``` java copy
-import java.util.ArrayList; 
-import java.util.Scanner;
-
+``` java
 public class AppNotas {
 
   public static void main(String[] args) {
@@ -111,14 +106,7 @@ public class AppNotas {
 
 ## ARRAY 
 
-``` JAVA COPY
-import java.util.Arrays;
-import java.util.Scanner;
-
-/**
- *
- * @author ANDREA
- */
+``` JAVA
 public class Array {
 
     public static void main(String[] args) {
@@ -147,15 +135,7 @@ public class Array {
 
 ## ARRAYLIST 
 
-``` JAVA COPY
-
-import java.util.ArrayList;
-import java.util.Scanner;
-
-/**
- *
- * @author ANDREA
- */
+``` JAVA
 public class Array_list {
 
     public static void main(String[] args) {

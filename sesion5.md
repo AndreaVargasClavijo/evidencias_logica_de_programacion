@@ -9,15 +9,7 @@
 
 ### SOLUCIÓN 
 
-``` JAVA COPY
-package com.mycompany.while1;
-
-
-import java.util.Scanner;
-/**
- *
- * @author ANDREA
- */
+``` JAVA
 public class While1 {
 
     public static void main(String[] args) {
@@ -45,15 +37,7 @@ public class While1 {
 
 ### SOLUCIÓN
 
-``` JAVA COPY
-package com.mycompany.while2;
-
-import java.util.Scanner;
-
-/**
- *
- * @author ANDREA
- */
+``` JAVA
 public class While2 {
 
     public static void main(String[] args) {
@@ -85,15 +69,7 @@ public class While2 {
 
 ### SOLUCIÓN 
 
-``` JAVA COPY
-package com.mycompany.dowhile1;
-
-import java.util.Scanner;
-
-/**
- *
- * @author ANDREA
- */
+``` JAVA
 public class DoWhile1 {
 
     public static void main(String[] args) {
@@ -116,15 +92,7 @@ public class DoWhile1 {
 
 ### SOLUCIÓN 
 
-``` JAVA COPY
-package com.mycompany.dowhile2;
-
-import java.util.Scanner;
-
-/**
- *
- * @author ANDREA
- */
+``` JAVA
 public class DoWhile2 {
 
     @SuppressWarnings("empty-statement")
@@ -152,13 +120,7 @@ public class DoWhile2 {
 
 ### SOLUCIÓN 
 
-``` JAVA COPY
-package com.mycompany.for1;
-
-/**
- *
- * @author ANDREA
- */
+``` JAVA
 public class For1 {
 
     public static void main(String[] args) {
@@ -174,7 +136,7 @@ public class For1 {
 
 ### SOLUCIÓN
 
-``` JAVA COPY
+``` JAVA
 public class For2 {
 
     public static void main(String[] args) {

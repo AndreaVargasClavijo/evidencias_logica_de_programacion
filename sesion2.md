@@ -8,7 +8,7 @@
 
  ### SOLUCIÓN
 
-```JAVA
+``` JAVA
 public class HipotenusaTriangulo1 {
 
     public static void main(String[] args) {

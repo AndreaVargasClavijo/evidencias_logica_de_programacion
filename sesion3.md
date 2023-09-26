@@ -8,14 +8,7 @@
 
 ### SOLUCIÓN
 
-``` JAVA COPY
-package com.mycompany.lpn1;
-
-import java.util.Scanner;
-/**
- *
- * @author ANDREA
- */
+``` JAVA
 public class LPN1 {
 
     public static void main(String[] args) {
@@ -39,22 +32,14 @@ public class LPN1 {
         scanner.close();
     }
 }
-
 ```
 
 2. Resta y división: Escribe un programa que tome dos números enteros ingresados por el usuario y calcule la resta y división de esos números.
 
 ### SOLUCIÓN
 
-``` JAVA COPY
-package com.mycompany.lpn2;
+``` JAVA
 
-import java.util.Scanner;
-
-/**
- *
- * @author ANDREA
- */
 public class LPN2 {
 
     public static void main(String[] args) {
@@ -83,15 +68,7 @@ public class LPN2 {
 
 ### SOLICIÓN
 
-``` JAVA COPY
-package com.mycompany.operacionescombinadas;
-
-import java.util.Scanner;
-
-/**
- *
- * @author ANDREA
- */
+``` JAVA
 public class OperacionesCombinadas {
 
     public static void main(String[] args) {
@@ -123,15 +100,7 @@ public class OperacionesCombinadas {
 
 ### SOLUCIÓN 
 
-``` JAVA COPY
-package com.mycompany.decimales;
-
-import java.util.Scanner;
-
-/**
- *
- * @author ANDREA
- */
+``` JAVA 
 public class Decimales {
 
     public static void main(String[] args) {
@@ -155,17 +124,9 @@ public class Decimales {
 
 5. Incremento y decremento: Escribe un programa que declare una variable entera y la inicialice con un valor. Luego, incrementa su valor en 1 y muestra el resultado. Después, decrementa su valor en 1 y muestra el resultado nuevamente.
 
-### SOLUCIÓ
+### SOLUCIÓN
 
-``` JAVA COPY
-package com.mycompany.incrementodecremento;
-
-import java.util.Scanner;
-
-/**
- *
- * @author ANDREA
- */
+``` JAVA 
 public class IncrementoDecremento {
 
     public static void main(String[] args) {
@@ -193,15 +154,7 @@ public class IncrementoDecremento {
 
 ### SOLUCIÓN
 
-``` JAVA COPY
-package com.mycompany.asigancioncompuesta;
-
-import java.util.Scanner;
-
-/**
- *
- * @author ANDREA
- */
+``` JAVA 
 public class AsigancionCompuesta {
 
     public static void main(String[] args) {
@@ -230,12 +183,6 @@ Scanner scanner = new Scanner (System.in);
 ### SOLUCIÓN
 
 ``` JAVA COPY
-package com.mycompany.operadoreslogicos;
-
-/**
- *
- * @author ANDREA
- */
 public class OperadoresLogicos {
 
     public static void main(String[] args) {
@@ -263,14 +210,6 @@ public class OperadoresLogicos {
 ### SOLUCIÓN 
 
 ``` JAVA  COPY
-package com.mycompany.operadorternario;
-
-import java.util.Scanner;
-
-/**
- *
- * @author ANDREA
- */
 public class OperadorTernario {
 
     public static void main(String[] args) {

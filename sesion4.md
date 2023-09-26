@@ -3,7 +3,7 @@
 
 # ACTIVIDAD 4
 
-``` JAVA COPY 
+``` JAVA 
 // Variables de tipo String
 String nombre = "Juan Pérez";
 String apellido = "González";
@@ -36,15 +36,7 @@ int semestre = 2;
 4.0 - 4.4: El estudiante recibe una beca parcial del 50%.
 4.5 - 5.0: El estudiante recibe una beca completa.
 
-``` JAVA COPY
-package com.mycompany.lpn;
-
-import java.util.Scanner;
-
-/**
- *
- * @author ANDREA
- */
+``` JAVA 
 public class Lpn {
 
     public static void main(String[] args) {
