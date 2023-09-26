@@ -9,15 +9,6 @@
  ### SOLUCIÓN
 
 ```JAVA COPY
-
-package com.mycompany.hipotenusatriangulo1;
-
-import java.util.Scanner;
-
-/**
- *
- * @author ANDREA
- */
 public class HipotenusaTriangulo1 {
 
     public static void main(String[] args) {
@@ -41,15 +32,6 @@ public class HipotenusaTriangulo1 {
 ### SOLUCIÓN 
 
 ```JAVA COPY
-package com.mycompany.java1;
-
-/**
- *
- * @author ANDREA
- */
-import java.util.Scanner;
-
-
 public class Java1 {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
@@ -71,14 +53,6 @@ public class Java1 {
 ### SOLUCIÓN
 
 ```JAVA COPY
-package com.mycompany.tercerangulotriangulo;
-
-import java.util.Scanner;
-
-/**
- *
- * @author ANDREA
- */
 public class TercerAnguloTriangulo {
     
         public static void main(String[] args) {
@@ -104,14 +78,6 @@ public class TercerAnguloTriangulo {
 ### SOLUCIÓN
 
 ```JAVA COPY 
-package com.mycompany.promediotresnumeros;
-
-import java.util.Scanner;
-
-/**
- *
- * @author ANDREA
- */
 public class PromedioTresNumeros {
 
     public static void main(String[] args) {
@@ -130,7 +96,6 @@ public class PromedioTresNumeros {
         }
     }
 }
-
 ```
 
 5. Programa para calcular la longitud de una cadena de texto:
@@ -138,15 +103,6 @@ public class PromedioTresNumeros {
 ### SOLUCIÓN
 
 ```JAVA COPY 
-package com.mycompany.longitudcadena;
-
-/**
- *
- * @author ANDREA
- */
-import java.util.Scanner;
-
-
 public class LongitudCadena {
 
     public static void main(String[] args) {
@@ -166,15 +122,6 @@ public class LongitudCadena {
 ### SOLUCIÓN
 
 ```JAVA COPY
-
-package com.mycompany.areatriangulo;
-
-/**
- *
- * @author ANDREA
- */
-import java.util.Scanner;
-
 public class AreaTriangulo {
 
     public static void main(String[] args) {
@@ -189,8 +136,7 @@ public class AreaTriangulo {
             System.out.println("El área del triángulo es: " + area);
         }
     }
-    }
-
+    } 
 ```
 
 7. Programa para calcular la raíz cuadrada de un número:
@@ -198,13 +144,6 @@ public class AreaTriangulo {
 ### SOLUCIÓN
 
 ```JAVA COPY
-package com.mycompany.raizcuadrada;
-/**
- *
- * @author ANDREA
- */
-import java.util.Scanner;
-
 
 public class RaizCuadrada {
 
@@ -226,14 +165,7 @@ public class RaizCuadrada {
 ### SOLUCIÓN
 
 ```JAVA COPY 
-package com.mycompany.maximocomundivisor;
 
-import java.util.Scanner;
-
-/**
- *
- * @author ANDREA
- */
 public class MaximoComunDivisor {
 
     public static void main(String[] args) {
@@ -255,12 +187,6 @@ public class MaximoComunDivisor {
 ### SOLUCIÓN
 
 ```JAVA COPY
-package com.mycompany.cadenainversa;
-
-/**
- *
- * @author ANDREA
- */
 import java.util.Scanner;
 
 public class CadenaInversa {
@@ -303,7 +229,8 @@ public class AreaTriangulo {
             System.out.println("El área del triángulo es: " + area);
         }
     }
-}```
+}
+```
 
 
 
